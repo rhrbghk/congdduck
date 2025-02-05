@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560091932094",
+    "project_id": "congdduck-fe288",
+    "storage_bucket": "congdduck-fe288.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560091932094:android:403bfe7de7cee5c037c5ef",
+        "android_client_info": {
+          "package_name": "com.example.congdduck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9u1ukt6l8LAaUK5SiZt-MNls3r_OvOjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
